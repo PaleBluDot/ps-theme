@@ -1,0 +1,22 @@
+{
+    "name": "sucio",
+    "displayName": "Sucio",
+    "description": "My personal VS code theme",
+    "version": "0.0.1",
+    "publisher": "github",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sucio",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sucio-color-theme.json"
+            }
+        ]
+    }
+}
