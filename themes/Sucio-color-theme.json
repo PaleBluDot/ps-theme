@@ -31,7 +31,7 @@
 
 		// Editor
 		"editor.background": "#101010",
-		"editor.foreground": "#101010",
+		"editor.foreground": "#ffffff",
 		"editorIndentGuide.background": "#2c2c2c",
 		"editorGroupHeader.tabsBackground": "#000000",
 		"editorGutter.background": "#101010",
