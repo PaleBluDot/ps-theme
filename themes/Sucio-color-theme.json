@@ -448,12 +448,11 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+			"name": "Number, Function Argument, Tag Attribute, Embedded",
 			"scope": [
 				"constant.numeric",
 				"constant.language",
 				"support.constant",
-				"constant.character",
 				"constant.escape",
 				"variable.parameter",
 				"keyword.other.unit",
@@ -461,6 +460,15 @@
 			],
 			"settings": {
 				"foreground": "#4ebd8f"
+			}
+		},
+		{
+			"name": " Constant",
+			"scope": [
+				"constant.character"
+			],
+			"settings": {
+				"foreground": "#bd7d4e"
 			}
 		},
 		{
@@ -644,6 +652,30 @@
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#d9df34"
+			}
+		},
+		{
+			"name": "URLs",
+			"scope": [
+				"string.quoted.double.html",
+				"meta.attribute.href.html",
+				"meta.tag.inline.a.start.html"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#0076a9"
+			}
+		},
+		{
+			"name": "In-line CSS Attribute",
+			"scope": [
+				"source.css",
+				"meta.embedded.line.css",
+				"meta.attribute.style.html",
+				"meta.tag.structure.td.start.html"
+			],
+			"settings": {
+				"foreground": "#bd7d4e"
 			}
 		},
 		{
