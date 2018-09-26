@@ -79,7 +79,7 @@
 		// Side Bar
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
 		"sideBar.background": "#1d1d1d",
-		"sideBar.foreground": "#D4D4D4",
+		"sideBar.foreground": "#bababa",
 		"sideBar.border": "#252627",
 		"sideBarTitle.foreground": "#7F7F7F",
 		"sideBarSectionHeader.background": "#252627",
