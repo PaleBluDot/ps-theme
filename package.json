@@ -2,7 +2,7 @@
     "name": "Sucio",
     "displayName": "Sucio",
     "description": "My personal VS code theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "Pavel Sanchez",
     "engines": {
         "vscode": "^1.20.0"

@@ -7,18 +7,17 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
 
 
-
+White: 		#d4d4d4
 Black:    	#1d1d1d
 Grey-Blue: 	#252627
 Grey:     	#bababa
 Blue:    	#0076a9
 Red:      	#dd656d
+Dark Pink:  #ac3474
 Pink:     	#d37fac
-Teal:     	#4e97bd
 Green:    	#4ebd8f
 Yellow:   	#d9df34
 Orange:   	#bd7d4e
-Purple:   	#784ebd
 
 
 

@@ -36,6 +36,11 @@
 ehthumbs.db
 Thumbs.db
 
-# Directories to Exludec #
+# files to Exlude #
+######################
+vsc-extension-quickstart.md
+
+# Directories to Exlude #
 ######################
 highlight-files/
+.vscode/
