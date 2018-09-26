@@ -12,13 +12,10 @@
 
 		// Button Control
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
-<<<<<<< HEAD
 		"button.background": "#ac3474",
 		"button.foreground": "#bababa",
-=======
 		"button.background": "#bb6492",
 		"button.foreground": "#ffffff",
->>>>>>> 038ec149efc50efb2d4ec5596af64b9d7793f692
 		"button.hoverBackground": "#d37fac",
 
 		// Dropdown Control
@@ -49,14 +46,11 @@
 		"scrollbarSlider.hoverBackground": "#FFFFFF2E",
 
 		// Badge
-		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
-<<<<<<< HEAD
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_bad
 		"badge.foreground": "#D4D4D4",
 		"badge.background": "#ac3474",
-=======
 		"badge.foreground": "#ffffff",
 		"badge.background": "#d37fac",
->>>>>>> 038ec149efc50efb2d4ec5596af64b9d7793f692
 
 		// Progress Bar
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_progress-bar
