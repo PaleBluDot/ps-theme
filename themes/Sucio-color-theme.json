@@ -12,9 +12,9 @@
 
 		// Button Control
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
-		"button.background": "#A94348",
+		"button.background": "#bb6492",
 		"button.foreground": "#D4D4D4",
-		"button.hoverBackground": "#E15A60",
+		"button.hoverBackground": "#d37fac",
 
 		// Dropdown Control
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_dropdown-control
