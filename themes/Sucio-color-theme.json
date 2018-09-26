@@ -45,8 +45,8 @@
 
 		// Badge
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
-		"badge.foreground": "#D4D4D4",
-		"badge.background": "#252627",
+		"badge.foreground": "#ffffff",
+		"badge.background": "#d37fac",
 
 		// Progress Bar
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_progress-bar
