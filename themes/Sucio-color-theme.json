@@ -13,7 +13,7 @@
 		// Button Control
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
 		"button.background": "#bb6492",
-		"button.foreground": "#D4D4D4",
+		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#d37fac",
 
 		// Dropdown Control
