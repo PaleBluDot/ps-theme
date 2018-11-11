@@ -19,17 +19,8 @@
             {
                 "label": "PS Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Sucio-color-theme.json"
+                "path": "./themes/ps-color-theme.json"
             }
         ]
-    },
-    "bugs": {
-        "url": "https://github.com/PaleBluDot/sucio-theme/issues",
-        "email": "info@pavelsanchez.com"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/PaleBluDot/sucio-theme.git"
-    },
-    "homepage": "https://github.com/PaleBluDot/sucio-theme/blob/master/README.md",
+    }
 }
