@@ -12,8 +12,6 @@
 
 		// Button Control
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
-		"button.background": "#ac3474",
-		"button.foreground": "#bababa",
 		"button.background": "#bb6492",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#d37fac",
@@ -47,8 +45,6 @@
 
 		// Badge
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_bad
-		"badge.foreground": "#D4D4D4",
-		"badge.background": "#ac3474",
 		"badge.foreground": "#ffffff",
 		"badge.background": "#d37fac",
 
@@ -334,7 +330,6 @@
 		{
 			"settings": {
 				"foreground": "#ffffff",
-				"background": "#101010"
 			}
 		},
 		{
@@ -935,7 +930,6 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"background": "#65737E",
 				"foreground": "#65737E"
 			}
 		},
@@ -1030,7 +1024,6 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"background": "#0000000",
 				"foreground": "#65737E"
 			}
 		},
