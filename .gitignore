@@ -39,8 +39,10 @@ Thumbs.db
 # files to Exlude #
 ######################
 vsc-extension-quickstart.md
+*.vscodeignore
+ps-theme.code-workspace
 
 # Directories to Exlude #
 ######################
-highlight-files/
+/highlight-files
 .vscode/

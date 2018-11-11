@@ -1,9 +1,13 @@
 {
-    "name": "Sucio",
-    "displayName": "Sucio",
-    "description": "My personal VS code theme",
-    "version": "0.1.0",
-    "publisher": "Pavel Sanchez",
+    "name": "PS Theme",
+    "displayName": "PS Theme",
+    "description": "My personal VScode theme",
+    "version": "0.0.1",
+    "publisher": "PS Designs",
+    "icon": "icon_square.jpg",
+    "author": {
+        "name": "Pavel Sanchez"
+    },
     "engines": {
         "vscode": "^1.20.0"
     },
@@ -13,10 +17,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sucio",
+                "label": "PS Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sucio-color-theme.json"
             }
         ]
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/PaleBluDot/sucio-theme/issues",
+        "email": "info@pavelsanchez.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PaleBluDot/sucio-theme.git"
+    },
+    "homepage": "https://github.com/PaleBluDot/sucio-theme/blob/master/README.md",
 }
