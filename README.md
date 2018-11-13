@@ -1,25 +1,26 @@
-# README
-## This is the README for your extension "PS Theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+#PS THEME
+My personal VSCode theme.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-White: 		#d4d4d4
-Black:    	#1d1d1d
-Grey-Blue: 	#252627
-Grey:     	#bababa
-Blue:    	#0076a9
-Red:      	#dd656d
-Dark Pink:  #ac3474
-Pink:     	#d37fac
-Green:    	#4ebd8f
-Yellow:   	#d9df34
+White: 		#d4d4d4<br />
+Black:    	#1d1d1d<br />
+Grey-Blue: 	#252627<br />
+Grey:     	#bababa<br />
+Blue:    	#0076a9<br />
+Red:      	#dd656d<br />
+Dark Pink:  #ac3474<br />
+Pink:     	#d37fac<br />
+Green:    	#4ebd8f<br />
+Yellow:   	#d9df34<br />
 Orange:   	#bd7d4e
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+###Windows
+To use in for windows:
+**Note:** _Folder .vscode will be hidden. To view hidden folder, click View Menu item and check Hidden Items_
+```C:\Users\{USERNAME}\.vscode\extensions```
+
+### MacOS
+To use in MacOS:
+**Note:** _Folder .vscode will be hidden. To view hidden folder `CMD+Shift+.`_
+```Mactintosh HD\Users\{USERNAME\.vscode\extensions````
 
 **Enjoy!**
