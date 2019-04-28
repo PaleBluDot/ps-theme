@@ -1,26 +1,36 @@
 {
-    "name": "PS Theme",
-    "displayName": "PS Theme",
-    "description": "My personal VScode theme",
-    "version": "0.0.1",
-    "publisher": "PS Designs",
-    "icon": "icon_square.jpg",
-    "author": {
-        "name": "Pavel Sanchez"
-    },
-    "engines": {
-        "vscode": "^1.20.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "PS Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ps-color-theme.json"
-            }
-        ]
-    }
+  "name": "PS Theme",
+  "displayName": "PS Theme",
+  "description": "My personal VScode theme",
+  "version": "0.0.2",
+  "publisher": "PS Designs",
+  "icon": "icon_square.jpg",
+  "author": {
+    "name": "Pavel Sanchez"
+  },
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PS Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ps-dark.json"
+      },
+      {
+        "label": "PS Mid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ps-mid.json"
+      },
+      {
+        "label": "PS Light",
+        "uiTheme": "vs",
+        "path": "./themes/ps-light.json"
+      }
+    ]
+  }
 }
