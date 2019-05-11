@@ -40,7 +40,7 @@ Thumbs.db
 ######################
 vsc-extension-quickstart.md
 *.vscodeignore
-ps-theme.code-workspace
+*.code-workspace
 
 # Directories to Exlude #
 ######################

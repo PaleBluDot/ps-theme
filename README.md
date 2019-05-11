@@ -1,26 +1,56 @@
-# PS THEME
-My personal VSCode theme.
+# PSD Color Theme
 
-White: 		`#d4d4d4`<br />
-Black:    	`#1d1d1d`<br />
-Grey-Blue: 	`#252627`<br />
-Grey:     	`#bababa`<br />
-Blue:    	`#0076a9`<br />
-Red:      	`#dd656d`<br />
-Dark Pink:  `#ac3474`<br />
-Pink:     	`#d37fac`<br />
-Green:    	`#4ebd8f`<br />
-Yellow:   	`#d9df34`<br />
-Orange:   	`#bd7d4e`<br />
+Color theme create for my personal use.
 
-### Windows
-To use in for windows:<br />
-**Note:** _Folder .vscode will be hidden. To view hidden folder, click View Menu item and check Hidden Items_<br />
-```C:\Users\{USERNAME}\.vscode\extensions```
+---
 
-### MacOS
-To use in MacOS:<br />
-**Note:** _Folder .vscode will be hidden. To view hidden folder `CMD+Shift+.`_<br />
-```Mactintosh HD\Users\{USERNAME\.vscode\extensions```
+## PS Dark
 
-**Enjoy!**
+![ps-dark](https://shrty.pw/Dk8YZU.png)
+
+- Backgrounds Colors:
+  - Black: #171717
+  - Washed-out Black: #191919
+  - Faded Black: #404040
+  - White: #d4d4d4
+
+---
+
+## PS Mid-Blue
+
+![ps-mid](https://shrty.pw/Dk8YZU.png)
+
+- Backgroundss Colors:
+  - Grey-Blue: #252B30
+  - Darker-Blue: #21262
+  - Grey: #bababa
+  - White: #d4d4d4
+
+---
+
+## PS Light
+
+![ps-light](https://shrty.pw/Dk8YZU.png)
+
+- Backgrounds Colors:
+
+  - Grey: #bababa
+  - Darker-grey: #a1a1a1
+  - Text: #1c1a1a
+
+- Syntax Colors:
+  - Blue: #0076a9
+  - Red: #dd656d
+  - Dark Pink: #ac3474
+  - Pink: #d37fac
+  - Green: #4ebd8f
+  - Yellow: #d9df34
+  - Orange: #bd7d4e
+
+### For more information
+
+- [Visual Studio Code's Color Theme Guide](https://code.visualstudio.com/api/references/theme-color)
+- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+**Enjoy**
