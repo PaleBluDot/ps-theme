@@ -16,16 +16,13 @@ Color theme create for my personal use.
 
 ---
 
-## PS Mid
+## PS Mid-Blue
 
 ![ps-mid](https://shrty.pw/Dk8YZU.png)
 
 - Backgrounds Colors:
-  - Grey-Blue: #252627
-  - Blue: #0E314D
-  - Dark-blue: #0A2F4D
-  - Blue-grey: #43474A
-  - Mid-grey: #5A6063
+  - Grey-Blue: #252B30
+  - Darker-Blue: #21262
   - Grey: #bababa
   - White: #d4d4d4
 
@@ -37,7 +34,9 @@ Color theme create for my personal use.
 
 - Backgrounds Colors:
 
-  - White: #d4d4d4
+  - Grey: #bababa
+  - Darker-grey: #a1a1a1
+  - Text: #1c1a1a
 
 - Syntax Colors:
   - Blue: #0076a9
