@@ -21,7 +21,7 @@ Color theme create for my personal use.
 
 ![ps-mid](https://shrty.pw/zRFbVP.png)
 
-- Backgrounds Colors:
+- Backgroundss Colors:
   - Grey-Blue: #252B30
   - Darker-Blue: #23292E
   - Grey: #bababa
