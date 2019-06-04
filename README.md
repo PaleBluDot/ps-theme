@@ -13,18 +13,20 @@ Color theme create for my personal use.
   - Washed-out Black: #191919
   - Faded Black: #404040
   - White: #d4d4d4
+  - Comment: #474C52
 
 ---
 
 ## PS Mid-Blue
 
-![ps-mid](https://shrty.pw/Dk8YZU.png)
+![ps-mid](https://shrty.pw/zRFbVP.png)
 
 - Backgrounds Colors:
   - Grey-Blue: #252B30
-  - Darker-Blue: #21262
+  - Darker-Blue: #23292E
   - Grey: #bababa
   - White: #d4d4d4
+  - Comment: #47525C
 
 ---
 
@@ -37,6 +39,7 @@ Color theme create for my personal use.
   - Grey: #bababa
   - Darker-grey: #a1a1a1
   - Text: #1c1a1a
+  - Comment: #474C52
 
 - Syntax Colors:
   - Blue: #0076a9
