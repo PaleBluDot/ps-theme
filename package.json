@@ -2,7 +2,7 @@
 	"name": "startbust-theme",
 	"displayName": "Starburst Theme",
 	"description": "A colorful theme!",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "ps-designs",
 	"icon": "icon_square.jpg",
 	"categories": [
@@ -18,9 +18,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Startburst Light",
-				"uiTheme": "vs",
-				"path": "./themes/starburst-light.json"
+				"label": "Startburst Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/starburst-dark.json"
 			},
 			{
 				"label": "Startburst Mid",
@@ -28,9 +28,9 @@
 				"path": "./themes/starburst-mid.json"
 			},
 			{
-				"label": "Startburst Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/ps-dark.json"
+				"label": "Startburst Light",
+				"uiTheme": "vs",
+				"path": "./themes/starburst-light.json"
 			}
 		]
 	},
