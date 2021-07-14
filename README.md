@@ -1,17 +1,11 @@
 # Starburst Theme
 
-![ps-dark](https://psan.me/Dk8YZU.png)
+## Starbust Dark
 
-![ps-mid](https://psan.me/zRFbVP.png)
+![starburst-dark](https://d.pr/i/c01Le3.png)
 
-![ps-light](https://psan.me/Dk8YZU.png)
+## Starbust Mid
 
-## Syntax colors
-
-- red: #ac2b2b
-- orange: #ea604e
-- pink: #e58091
-- yellow: #fff222
-- **_Enjoy_**
+![starburst-mid](https://d.pr/i/mtnBSf.png)
 
 **Enjoy**

@@ -1,26 +1,35 @@
-$orange:                 #d19a66;
-$cyan:                   #56B6C2;
-$blue:                   #61afef;
-$purple:                 #c678dd;
-$green:                  #98C379;
-$red:                    #DF6A73;
-$gray:                   #abb2bf;
-$illegal-red:            #e05252;
-$rust-green:             #56b6c2;
-$interpolation-red:      #be5046;
+$orange: #ea604e;
+$pink: #e58091;
+$yellow: #fff222;
+$red: #ac2b2b;
+
+$background-950: #0d0d0d;
+$background-900: #1a1a1a;
+$background-850: #262626;
+$background-800: #333333;
+$background-750: #404040;
+$background-700: #4d4d4d;
+$background-600: #666666;
+$background-500: #808080;
+$background-400: #999999;
+$background-300: #b3b3b3;
+$background-200: #cccccc;
+$background-100: #e6e6e6;
 
 nav {
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
 
-  li { display: inline-block; }
+	li {
+		display: inline-block;
+	}
 
-  a {
-    display: block;
-    padding: 6px 12px;
-    text-decoration: none;
-  }
+	a {
+		display: block;
+		padding: 6px 12px;
+		text-decoration: none;
+	}
 }
