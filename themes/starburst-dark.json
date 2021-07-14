@@ -1,4 +1,5 @@
 {
+	"author": "Pavel Sanchez",
 	"name": "PSD Dark",
 	"type": "dark",
 	"colors": {
@@ -56,8 +57,6 @@
 		"list.inactiveSelectionForeground": "#d4d4d4",
 		"list.errorForeground": "#dd656d",
 		"list.warningForeground": "#d9df34",
-		// "list.hoverForeground": "#d4d4d4",
-		// "list.focusForeground": "#d4d4d4",
 
 		// Activity Bar
 		"activityBar.background": "#191919",
@@ -92,20 +91,9 @@
 		"tab.unfocusedInactiveForeground": "#d4d4d4",
 		"tab.hoverBackground": "#252525",
 		"tab.unfocusedHoverBackground": "#191919",
-		// "tab.activeBorderTop": "#",
-		// "tab.unfocusedActiveBorderTop": "#",
-		// "tab.hoverBorder": "#191919",
-		// "tab.unfocusedHoverBorder": "#191919",
-		// "editor.selectionHighlightBorder": "#f00",
-		// "editor.wordHighlightBorder": "#f00",
-		// "editor.wordHighlightStrongBorder": "#f00",
-		// "editor.findMatchBorder": "#d4d4d4",
-		// "editor.findMatchHighlightBorder": "#f09",
-		// "editor.findRangeHighlightBorder": "#f00",
-		// "editor.rangeHighlightBorder": "#f00",
 
 		// Editor Colors
-		"editor.background": "#171717",
+		"editor.background": "#191919",
 		"editor.foreground": "#d4d4d4",
 		"editorLineNumber.foreground": "#d37fac50",
 		"editorLineNumber.activeForeground": "#d9df34",
@@ -147,9 +135,6 @@
 		"editorGutter.modifiedBackground": "#0076a9",
 		"editorGutter.addedBackground": "#4ebd8f",
 		"editorGutter.deletedBackground": "#dd656d",
-		// "editor.findRangeHighlightBackground": "#d4d4d41F",
-		// "editor.selectionHighlightBackground": "#d4d4d43D",
-		// "editor.lineHighlightBorder": "#191919",
 
 		// Diff Editor Colors
 		"diffEditor.insertedTextBackground": "#3D4F3B",
