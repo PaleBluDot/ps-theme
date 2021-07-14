@@ -9,7 +9,7 @@ export function activate(context: vscode.ExtensionContext) {
         if (!editor) {
             return;
         }
-        var expandedSelection = undefined;
+        var expandedSelection;
         expandedSelection = getSelection(editor);
         if (expandedSelection) {
             var word = editor.document.getText(expandedSelection);
