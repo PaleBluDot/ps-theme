@@ -18,19 +18,19 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Startburst Dark",
+				"label": "Startburst Blue Dev",
+				"uiTheme": "vs",
+				"path": "./themes/starburst-blue.json"
+			},
+			{
+				"label": "Startburst Dark Dev",
 				"uiTheme": "vs-dark",
 				"path": "./themes/starburst-dark.json"
 			},
 			{
-				"label": "Startburst Mid",
+				"label": "Startburst Mid Dev",
 				"uiTheme": "vs-dark",
 				"path": "./themes/starburst-mid.json"
-			},
-			{
-				"label": "Startburst Light",
-				"uiTheme": "vs",
-				"path": "./themes/starburst-light.json"
 			}
 		]
 	},

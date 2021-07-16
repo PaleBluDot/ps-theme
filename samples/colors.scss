@@ -1,10 +1,78 @@
-$orange: #ea604e;
 $pink: #e58091;
-$yellow: #fff222;
+$yellow: #ea604e;
+$orange: #fff222;
 $red: #ac2b2b;
 
-$background-950: #0d0d0d;
-$background-900: #1a1a1a;
+/*
+HSL NAME CONVERSION
+-------------------
+900: 10%
+800: 20%
+700: 30%
+600: 40%
+500: 50%
+400: 60%
+300: 70%
+200: 80%
+100: 90%
+
+*/
+
+// PINK
+$pink-900: #290a10;
+$pink-800: #521420;
+$pink-700: #7b1e31;
+$pink-600: #a42841;
+$pink-500: #cd3251;
+$pink-400: #d75b74;
+$pink-300: #e08594 !default;
+$pink-200: #ebadb8;
+$pink-100: #f5d6dc;
+
+// RED
+$red-900: #290a0a;
+$red-800: #521414;
+$red-700: #7a1f1f;
+$red-600: #a32929 !default;
+$red-500: #cc3333;
+$red-400: #d65c5c;
+$red-300: #e08585;
+$red-200: #eaaeae;
+$red-100: #f5d6d6;
+
+// ORANGE
+$orange-900: #2e0a05;
+$orange-800: #5c140a;
+$orange-700: #8a1d0f;
+$orange-600: #b82714;
+$orange-500: #e63119;
+$orange-400: #eb5a47 !default;
+$orange-300: #f08375;
+$orange-200: #f5ada3;
+$orange-100: #fad6d1;
+
+// YELLOW
+$yellow-900: #302d03;
+$yellow-800: #605a06;
+$yellow-700: #908709;
+$yellow-600: #c0b40c;
+$yellow-500: #f0e10f;
+$yellow-400: #f5e93d !default;
+$yellow-300: #f7ee6e;
+$yellow-200: #faf49e;
+$yellow-100: #fcf9cf;
+
+// MAIN BG
+$background-950: #0d0d0d; // Editor BG
+$background-940: #0f0f0f; //
+$background-930: #121212; //
+$background-920: #141414; //
+$background-910: #171717; // Sidebar
+$background-900: #1a1a1a; // Activity bar
+$background-890: #1c1c1c; //
+$background-880: #1f1f1f; //
+$background-870: #212121; //
+$background-860: #242424; //
 $background-850: #262626;
 $background-800: #333333;
 $background-750: #404040;
@@ -16,20 +84,8 @@ $background-300: #b3b3b3;
 $background-200: #cccccc;
 $background-100: #e6e6e6;
 
-nav {
-	ul {
-		margin: 0;
-		padding: 0;
-		list-style: none;
-	}
-
-	li {
-		display: inline-block;
-	}
-
-	a {
-		display: block;
-		padding: 6px 12px;
-		text-decoration: none;
-	}
-}
+//background alt
+$background-950: #0b0d0e;
+$background-900: #161b1d;
+$background-850: #21292c;
+$background-800: #2c363a;
