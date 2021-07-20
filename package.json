@@ -3,7 +3,7 @@
 	"displayName": "Starburst Theme",
 	"description": "A colorful theme!",
 	"version": "0.1.2",
-	"publisher": "ps-designs",
+	"publisher": "psanchez",
 	"icon": "icon_square.jpg",
 	"categories": [
 		"Themes"
@@ -18,17 +18,17 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Starburst Blue Dev",
+				"label": "Starburst Blue",
 				"uiTheme": "vs",
 				"path": "./themes/starburst-blue.json"
 			},
 			{
-				"label": "Starburst Dark Dev",
+				"label": "Starburst Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/starburst-dark.json"
 			},
 			{
-				"label": "Starburst Mid Dev",
+				"label": "Starburst Mid",
 				"uiTheme": "vs-dark",
 				"path": "./themes/starburst-mid.json"
 			}
