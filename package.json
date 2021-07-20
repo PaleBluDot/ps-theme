@@ -18,19 +18,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Starburst Blue",
-				"uiTheme": "vs",
-				"path": "./themes/starburst-blue.json"
-			},
-			{
 				"label": "Starburst Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/starburst-dark.json"
-			},
-			{
-				"label": "Starburst Mid",
-				"uiTheme": "vs-dark",
-				"path": "./themes/starburst-mid.json"
 			}
 		]
 	},
@@ -41,6 +31,9 @@
 	},
 	"scripts": {
 		"package": "vsce package",
-		"publish": "vsce publish"
+		"publish": "vsce publish",
+		"publish:patch": "vsce publish patch",
+		"publish:minor": "vsce publish minor",
+		"publish:major": "vsce publish major"
 	}
 }
