@@ -1,5 +1,5 @@
 {
-	"name": "starbust-theme",
+	"name": "starburst-theme",
 	"displayName": "Starburst Theme",
 	"description": "A colorful theme!",
 	"version": "0.1.2",
@@ -18,17 +18,17 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Startburst Blue Dev",
+				"label": "Starburst Blue Dev",
 				"uiTheme": "vs",
 				"path": "./themes/starburst-blue.json"
 			},
 			{
-				"label": "Startburst Dark Dev",
+				"label": "Starburst Dark Dev",
 				"uiTheme": "vs-dark",
 				"path": "./themes/starburst-dark.json"
 			},
 			{
-				"label": "Startburst Mid Dev",
+				"label": "Starburst Mid Dev",
 				"uiTheme": "vs-dark",
 				"path": "./themes/starburst-mid.json"
 			}
@@ -38,5 +38,9 @@
 		"id": "3fabeda3-a1cc-4565-a586-9c356f9a471b",
 		"publisherDisplayName": "PSD",
 		"publisherId": "417ecddc-e1db-4da0-bc02-79a96cabe5c9"
+	},
+	"scripts": {
+		"package": "vsce package",
+		"publish": "vsce publish"
 	}
 }
